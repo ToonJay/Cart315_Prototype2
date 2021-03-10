@@ -4196,19 +4196,20 @@ MonoBehaviour:
 
     - Shift to sprint
 
-    - Space to jump
+    - Space to jump,
+    you can also air/double jump
+
+    - Left click to bring the camera closer
 
     -
-    Left click to bring the camera closer
-
-    - Right click to bring it farther
+    Right click to bring it farther
 
 
-    Reach
-    the spinning cube to win!
+    Reach the spinning cube to win!
 
 
-    PRESS F TO CLEAR THIS TEXT!'
+    PRESS
+    F TO CLEAR THIS TEXT!'
 --- !u!222 &1991010515
 CanvasRenderer:
   m_ObjectHideFlags: 0
